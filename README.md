@@ -1,4 +1,4 @@
-## Olá! Eu sou Ravel Levi
+## Hello! I'm Ravel Levi
 ## Nickname: Hayckes
 
 <div align="center">
